@@ -1,0 +1,10 @@
+{
+  "name": "test-service-2",
+  "version": "1.0.0",
+  "description": "A tiny greeting library used by test-service-1.",
+  "type": "module",
+  "exports": "./index.js",
+  "engines": {
+    "node": ">=18"
+  }
+}

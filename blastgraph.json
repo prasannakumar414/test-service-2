@@ -1,0 +1,19 @@
+{
+  "name": "test-service-2",
+  "aliases": [],
+  "endpoints": [
+    {
+      "method": "GET",
+      "route": "/greet",
+      "evidence": [
+        {
+          "path": "server.js",
+          "line": 6
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "produces": [],
+  "consumes": []
+}
